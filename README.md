@@ -13,8 +13,8 @@ Windows Form Applications
 1. Клонувати репозиторій:
    ```bash
    git clone https://github.com/RudychukDmytro/OOP_Labs_8
-2. Відкрити проект за допомогою застосунку 
-3. Виконати запуск застосунку Qt Creator
+2. Відкрити проект за допомогою застосунку Qt Creator
+3. Виконати запуск програми
 
 ## Висновки
 
